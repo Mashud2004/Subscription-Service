@@ -185,6 +185,7 @@ Flexible Pricing: Providers set their own subscription rates
 Revenue Transparency: All earnings are publicly verifiable
 
 ## Contract Details : 0xee3DA31Aa6CEeAAcF2B1E3c50eCb6e2880c3b61d
-<img width="2880" height="1800" alt="Screenshot 2025-07-28 142618" src="https://github.com/user-attachments/assets/ee5f6388-a6f9-4cd3-8fbf-9e93182f43d3" />
+<img width="2879" height="1463" alt="Screenshot 2025-07-28 142558" src="https://github.com/user-attachments/assets/17f29094-f350-4e82-8886-0c200f075369" />
+
 
 
